@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @praise-crypto
-- 👀 I’m interested in blockchain 
-- 🌱 I’m currently learning solidity and blockchain 
-- 💞️ I’m looking to collaborate on ecosystems 
-- 📫 How to reach me Dm hete
+- 👀 I’m interested in DATA
+- 🌱 I’m currently learning Data Analytics and business Analysis.
+- 💞️ I’m looking to work on data based projects 
+- 📫 How to reach me Dm here 
 - 😄 Pronouns: ...
-- ⚡ Fun fact:i make wonders 
+- ⚡ Fun fact:i make wonders with data 
 
 <!---
 praise-crypto/praise-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
